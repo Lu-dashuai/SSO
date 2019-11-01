@@ -1,0 +1,15 @@
+1.找到host文件添加如下配置.
+127.0.0.1 www.sso.com
+127.0.0.1 www.crm.com
+127.0.0.1 www.wms.com
+
+在client项目中默认的就是www.sso.com,如果你配置的和我的不一样需要修改sso.properties中的server-url-prefix
+
+
+2.server为统一认证中心.访问地址为:http://www.sso.com:8443
+  client-crm为客户关系管理系统.访问地址为:http://www.crm.com:8088/main
+  client-wms为进销存系统.访问地址为:http://www.wms.com:8089/main
+
+3.统一认证中心默认密码为 zhangsan:666
+
+4.直接运行serverBat.bat,client-wms.bat,client-crm.bat即可.

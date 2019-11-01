@@ -1,0 +1,12 @@
+127.0.0.1 - - [15/Apr/2018:18:02:19 +0800] "GET /checkLogin?redirectUrl=http://www.crm.com:8088/main HTTP/1.1" 200 735
+127.0.0.1 - - [15/Apr/2018:18:02:19 +0800] "GET /checkLogin?redirectUrl=http://www.crm.com:8088/main HTTP/1.1" 200 735
+127.0.0.1 - - [15/Apr/2018:18:02:20 +0800] "GET /static/css/style.css HTTP/1.1" 200 6810
+127.0.0.1 - - [15/Apr/2018:18:02:20 +0800] "GET /static/js/placeholder.js HTTP/1.1" 200 1445
+127.0.0.1 - - [15/Apr/2018:18:02:20 +0800] "GET /static/js/jquery-latest.min.js HTTP/1.1" 200 95788
+127.0.0.1 - - [15/Apr/2018:18:02:26 +0800] "GET /checkLogin?redirectUrl=http://www.wms.com:8089/main HTTP/1.1" 200 735
+127.0.0.1 - - [15/Apr/2018:18:02:32 +0800] "POST /login HTTP/1.1" 302 -
+127.0.0.1 - - [15/Apr/2018:18:02:32 +0800] "POST /verify HTTP/1.1" 200 4
+127.0.0.1 - - [15/Apr/2018:18:02:38 +0800] "GET /checkLogin?redirectUrl=http://www.wms.com:8089/main HTTP/1.1" 302 -
+127.0.0.1 - - [15/Apr/2018:18:02:38 +0800] "POST /verify HTTP/1.1" 200 4
+127.0.0.1 - - [15/Apr/2018:18:02:46 +0800] "GET /logOut HTTP/1.1" 200 103
+127.0.0.1 - - [15/Apr/2018:18:02:48 +0800] "GET /checkLogin?redirectUrl=http://www.wms.com:8089/main HTTP/1.1" 200 735

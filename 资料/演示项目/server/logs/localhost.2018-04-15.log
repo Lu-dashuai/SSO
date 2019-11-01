@@ -1,0 +1,18 @@
+四月 15, 2018 5:59:20 下午 org.apache.catalina.core.ApplicationContext log
+信息: No Spring WebApplicationInitializer types detected on classpath
+四月 15, 2018 5:59:21 下午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring FrameworkServlet 'SpringMVC'
+四月 15, 2018 5:59:35 下午 org.apache.catalina.core.ApplicationContext log
+信息: Destroying Spring FrameworkServlet 'SpringMVC'
+四月 15, 2018 6:00:12 下午 org.apache.catalina.core.ApplicationContext log
+信息: No Spring WebApplicationInitializer types detected on classpath
+四月 15, 2018 6:00:13 下午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring FrameworkServlet 'SpringMVC'
+四月 15, 2018 6:00:18 下午 org.apache.catalina.core.ApplicationContext log
+信息: Destroying Spring FrameworkServlet 'SpringMVC'
+四月 15, 2018 6:01:14 下午 org.apache.catalina.core.ApplicationContext log
+信息: No Spring WebApplicationInitializer types detected on classpath
+四月 15, 2018 6:01:15 下午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring FrameworkServlet 'SpringMVC'
+四月 15, 2018 6:03:00 下午 org.apache.catalina.core.ApplicationContext log
+信息: Destroying Spring FrameworkServlet 'SpringMVC'

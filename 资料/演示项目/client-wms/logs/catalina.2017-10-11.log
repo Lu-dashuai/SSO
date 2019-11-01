@@ -1,0 +1,60 @@
+十月 11, 2017 9:29:37 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Server version:        Apache Tomcat/7.0.57
+十月 11, 2017 9:29:37 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Server built:          Nov 3 2014 08:39:16 UTC
+十月 11, 2017 9:29:37 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Server number:         7.0.57.0
+十月 11, 2017 9:29:37 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: OS Name:               Windows 7
+十月 11, 2017 9:29:37 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: OS Version:            6.1
+十月 11, 2017 9:29:37 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Architecture:          amd64
+十月 11, 2017 9:29:37 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: JAVA_HOME:             E:\java\jdk1.7.0_79\jre
+十月 11, 2017 9:29:37 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: JVM Version:           1.7.0_79-b15
+十月 11, 2017 9:29:37 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: JVM Vendor:            Oracle Corporation
+十月 11, 2017 9:29:37 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: CATALINA_BASE:         D:\lanxw\07_SSO\资料\演示项目\client2
+十月 11, 2017 9:29:37 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: CATALINA_HOME:         D:\lanxw\07_SSO\资料\演示项目\client2
+十月 11, 2017 9:29:37 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Djava.util.logging.config.file=D:\lanxw\07_SSO\资料\演示项目\client2\conf\logging.properties
+十月 11, 2017 9:29:37 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+十月 11, 2017 9:29:37 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Djava.endorsed.dirs=D:\lanxw\07_SSO\资料\演示项目\client2\endorsed
+十月 11, 2017 9:29:37 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Dcatalina.base=D:\lanxw\07_SSO\资料\演示项目\client2
+十月 11, 2017 9:29:37 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Dcatalina.home=D:\lanxw\07_SSO\资料\演示项目\client2
+十月 11, 2017 9:29:37 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Djava.io.tmpdir=D:\lanxw\07_SSO\资料\演示项目\client2\temp
+十月 11, 2017 9:29:37 上午 org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+信息: Loaded APR based Apache Tomcat Native library 1.1.32 using APR version 1.5.1.
+十月 11, 2017 9:29:37 上午 org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+信息: APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+十月 11, 2017 9:29:38 上午 org.apache.catalina.core.AprLifecycleListener initializeSSL
+信息: OpenSSL successfully initialized (OpenSSL 1.0.1j 15 Oct 2014)
+十月 11, 2017 9:29:38 上午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["http-apr-8089"]
+十月 11, 2017 9:29:38 上午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["ajp-apr-8007"]
+十月 11, 2017 9:29:38 上午 org.apache.catalina.startup.Catalina load
+信息: Initialization processed in 869 ms
+十月 11, 2017 9:29:38 上午 org.apache.catalina.core.StandardService startInternal
+信息: Starting service Catalina
+十月 11, 2017 9:29:38 上午 org.apache.catalina.core.StandardEngine startInternal
+信息: Starting Servlet Engine: Apache Tomcat/7.0.57
+十月 11, 2017 9:29:38 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory D:\lanxw\07_SSO\资料\演示项目\client2\webapps\ROOT
+十月 11, 2017 9:29:39 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deployment of web application directory D:\lanxw\07_SSO\资料\演示项目\client2\webapps\ROOT has finished in 787 ms
+十月 11, 2017 9:29:39 上午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["http-apr-8089"]
+十月 11, 2017 9:29:39 上午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["ajp-apr-8007"]
+十月 11, 2017 9:29:39 上午 org.apache.catalina.startup.Catalina start
+信息: Server startup in 840 ms

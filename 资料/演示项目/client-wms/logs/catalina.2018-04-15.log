@@ -1,0 +1,76 @@
+四月 15, 2018 6:01:19 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Server version:        Apache Tomcat/7.0.57
+四月 15, 2018 6:01:19 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Server built:          Nov 3 2014 08:39:16 UTC
+四月 15, 2018 6:01:19 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Server number:         7.0.57.0
+四月 15, 2018 6:01:19 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: OS Name:               Windows 7
+四月 15, 2018 6:01:19 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: OS Version:            6.1
+四月 15, 2018 6:01:19 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Architecture:          amd64
+四月 15, 2018 6:01:19 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: JAVA_HOME:             C:\Program Files\Java\jdk1.8.0_144\jre
+四月 15, 2018 6:01:19 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: JVM Version:           1.8.0_144-b01
+四月 15, 2018 6:01:19 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: JVM Vendor:            Oracle Corporation
+四月 15, 2018 6:01:19 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: CATALINA_BASE:         C:\Users\Administrator\Desktop\SSO\资料\演示项目\client-wms
+四月 15, 2018 6:01:19 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: CATALINA_HOME:         C:\Users\Administrator\Desktop\SSO\资料\演示项目\client-wms
+四月 15, 2018 6:01:19 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Djava.util.logging.config.file=C:\Users\Administrator\Desktop\SSO\资料\演示项目\client-wms\conf\logging.properties
+四月 15, 2018 6:01:19 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+四月 15, 2018 6:01:19 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Djava.endorsed.dirs=C:\Users\Administrator\Desktop\SSO\资料\演示项目\client-wms\endorsed
+四月 15, 2018 6:01:19 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Dcatalina.base=C:\Users\Administrator\Desktop\SSO\资料\演示项目\client-wms
+四月 15, 2018 6:01:19 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Dcatalina.home=C:\Users\Administrator\Desktop\SSO\资料\演示项目\client-wms
+四月 15, 2018 6:01:19 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Djava.io.tmpdir=C:\Users\Administrator\Desktop\SSO\资料\演示项目\client-wms\temp
+四月 15, 2018 6:01:19 下午 org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+信息: Loaded APR based Apache Tomcat Native library 1.1.32 using APR version 1.5.1.
+四月 15, 2018 6:01:19 下午 org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+信息: APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+四月 15, 2018 6:01:20 下午 org.apache.catalina.core.AprLifecycleListener initializeSSL
+信息: OpenSSL successfully initialized (OpenSSL 1.0.1j 15 Oct 2014)
+四月 15, 2018 6:01:20 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["http-apr-8089"]
+四月 15, 2018 6:01:20 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["ajp-apr-8007"]
+四月 15, 2018 6:01:20 下午 org.apache.catalina.startup.Catalina load
+信息: Initialization processed in 1479 ms
+四月 15, 2018 6:01:20 下午 org.apache.catalina.core.StandardService startInternal
+信息: Starting service Catalina
+四月 15, 2018 6:01:20 下午 org.apache.catalina.core.StandardEngine startInternal
+信息: Starting Servlet Engine: Apache Tomcat/7.0.57
+四月 15, 2018 6:01:20 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory C:\Users\Administrator\Desktop\SSO\资料\演示项目\client-wms\webapps\ROOT
+四月 15, 2018 6:01:23 下午 org.apache.catalina.util.SessionIdGenerator createSecureRandom
+信息: Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [971] milliseconds.
+四月 15, 2018 6:01:23 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deployment of web application directory C:\Users\Administrator\Desktop\SSO\资料\演示项目\client-wms\webapps\ROOT has finished in 2,765 ms
+四月 15, 2018 6:01:23 下午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["http-apr-8089"]
+四月 15, 2018 6:01:23 下午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["ajp-apr-8007"]
+四月 15, 2018 6:01:23 下午 org.apache.catalina.startup.Catalina start
+信息: Server startup in 2880 ms
+四月 15, 2018 6:03:01 下午 org.apache.coyote.AbstractProtocol pause
+信息: Pausing ProtocolHandler ["http-apr-8089"]
+四月 15, 2018 6:03:01 下午 org.apache.coyote.AbstractProtocol pause
+信息: Pausing ProtocolHandler ["ajp-apr-8007"]
+四月 15, 2018 6:03:01 下午 org.apache.catalina.core.StandardService stopInternal
+信息: Stopping service Catalina
+四月 15, 2018 6:03:01 下午 org.apache.coyote.AbstractProtocol stop
+信息: Stopping ProtocolHandler ["http-apr-8089"]
+四月 15, 2018 6:03:02 下午 org.apache.coyote.AbstractProtocol stop
+信息: Stopping ProtocolHandler ["ajp-apr-8007"]
+四月 15, 2018 6:03:02 下午 org.apache.coyote.AbstractProtocol destroy
+信息: Destroying ProtocolHandler ["http-apr-8089"]
+四月 15, 2018 6:03:02 下午 org.apache.coyote.AbstractProtocol destroy
+信息: Destroying ProtocolHandler ["ajp-apr-8007"]
